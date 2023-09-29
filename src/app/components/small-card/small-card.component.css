@@ -12,6 +12,9 @@
  width: 100px;
  min-width: 100px;
  margin-right: 20px;
+padding-top: 30px;
+ max-width: 120px;
+ max-height: 120px;
 }
 
 .small-card__title {
@@ -23,3 +26,5 @@
 .container__small-card-separator{
   margin-top: 10px;
 }
+
+
